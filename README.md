@@ -42,8 +42,8 @@ pip install -r requirements.txt
 
 ## Create a .env file in the project directory and add your API keys
 
-HIBP_API_KEY=your_haveibeenpwned_api_key
-HUNTER_API_KEY=your_hunter_io_api_key
+* HIBP_API_KEY=your_haveibeenpwned_api_key
+* HUNTER_API_KEY=your_hunter_io_api_key
 
 ## Usage
 
@@ -60,9 +60,9 @@ python OSINT.py target [--image IMAGE_URL] [--output OUTPUT_FILENAME] [--verbose
 
 ## Examples
 
-python OSINT.py example.com --verbose
-python OSINT.py johndoe --output results.json
-python OSINT.py example.com --image https://example.com/image.jpg
+* python OSINT.py example.com --verbose
+* python OSINT.py johndoe --output results.json
+* python OSINT.py example.com --image https://example.com/image.jpg
 
 ## Notes
 
