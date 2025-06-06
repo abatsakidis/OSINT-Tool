@@ -1,0 +1,6 @@
+whois
+requests
+dnspython
+python-dotenv
+pygments
+validators
